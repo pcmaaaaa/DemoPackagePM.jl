@@ -1,5 +1,5 @@
 module DemoPackagePM
 
-print_greeting() = printstyled("Hello, world!"; color= :magenta)
+print_greeting() = printstyled("Hello, world!"; color= :green)
 
 end
