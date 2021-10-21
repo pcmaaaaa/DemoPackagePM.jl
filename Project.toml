@@ -3,6 +3,9 @@ uuid = "aca2c500-3c3b-45f2-b490-09a655b51da5"
 authors = ["Pingchuan Ma <mapingchuan@wustl.edu> and contributors"]
 version = "0.1.0"
 
+[deps]
+PkgTemplates = "14b8a8f1-9102-5b29-a752-f990bacb7fe1"
+
 [compat]
 julia = "1"
 
